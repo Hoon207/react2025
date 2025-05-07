@@ -2,7 +2,7 @@
   "name": "router",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Hoon207.github.com/react2025",
+  "homepage": "https://hoon207.github.io/react2025/",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
