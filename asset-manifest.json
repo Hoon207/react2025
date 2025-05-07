@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react2025/static/css/main.cbf0772a.css",
+    "main.js": "/react2025/static/js/main.9559edad.js",
+    "static/js/453.3e49419c.chunk.js": "/react2025/static/js/453.3e49419c.chunk.js",
+    "static/media/icofont.woff": "/react2025/static/media/icofont.dad3accba068281878f1.woff",
+    "static/media/icofont.woff2": "/react2025/static/media/icofont.9c33516aab48c61e3081.woff2",
+    "static/media/banner3.png": "/react2025/static/media/banner3.49d99b3e25d9ca13c2e6.png",
+    "static/media/banner4.png": "/react2025/static/media/banner4.aa15a85d9890b729da5a.png",
+    "static/media/banner2.png": "/react2025/static/media/banner2.0122591ef28cd756edb4.png",
+    "static/media/banner1.png": "/react2025/static/media/banner1.f431710cb5a0519c9967.png",
+    "static/media/KURLY.png": "/react2025/static/media/KURLY.33f9143f585fb409bb8e.png",
+    "index.html": "/react2025/index.html",
+    "main.cbf0772a.css.map": "/react2025/static/css/main.cbf0772a.css.map",
+    "main.9559edad.js.map": "/react2025/static/js/main.9559edad.js.map",
+    "453.3e49419c.chunk.js.map": "/react2025/static/js/453.3e49419c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbf0772a.css",
+    "static/js/main.9559edad.js"
+  ]
+}
