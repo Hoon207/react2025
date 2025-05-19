@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react2025/static/css/main.53446520.css",
-    "main.js": "/react2025/static/js/main.85f6b986.js",
+    "main.css": "/react2025/static/css/main.a7fdec18.css",
+    "main.js": "/react2025/static/js/main.35287c2f.js",
     "static/media/icofont.woff": "/react2025/static/media/icofont.dad3accba068281878f1.woff",
     "static/media/icofont.woff2": "/react2025/static/media/icofont.9c33516aab48c61e3081.woff2",
     "static/media/banner3.png": "/react2025/static/media/banner3.49d99b3e25d9ca13c2e6.png",
@@ -24,11 +24,11 @@
     "static/media/random5.jpg": "/react2025/static/media/random5.7f045e76bde3e3ae02ab.jpg",
     "static/media/random4.jpg": "/react2025/static/media/random4.3bd6584ce39d68f404ec.jpg",
     "index.html": "/react2025/index.html",
-    "main.53446520.css.map": "/react2025/static/css/main.53446520.css.map",
-    "main.85f6b986.js.map": "/react2025/static/js/main.85f6b986.js.map"
+    "main.a7fdec18.css.map": "/react2025/static/css/main.a7fdec18.css.map",
+    "main.35287c2f.js.map": "/react2025/static/js/main.35287c2f.js.map"
   },
   "entrypoints": [
-    "static/css/main.53446520.css",
-    "static/js/main.85f6b986.js"
+    "static/css/main.a7fdec18.css",
+    "static/js/main.35287c2f.js"
   ]
 }
